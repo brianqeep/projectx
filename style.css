@@ -1,9 +1,12 @@
 body{
-  background-color: white;
+  background-color: f8f8f8;
   text-align: left;
-  margin-left: 50px;
+  margin-left: 250px;
+  margin-right: 200px;
+
 }
 h1{
-  text-align: left;
+  text-align: center;
   padding-left: 10px;
+  font-family: "bradley":bradley hand itc;
 }
