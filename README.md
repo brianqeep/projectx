@@ -7,6 +7,17 @@ The project is basically about events. Displaying the venues, location and photo
 1. Have a web browser.
 2. Visit [here](http://www.google.com)
 
+## Technologies Added
+-CSS3
+-Javascript
+## Known Bugs
+-Deadlock
+## Contacts
+-blablabla@gmail.com
+-1098, dash street
+## Contributions
+We welcome pull requests from Free Code Camp campers (our students) and seasoned JavaScript developers alike! Please follow these steps to contribute.
+
 ## License
 
 MIT License
