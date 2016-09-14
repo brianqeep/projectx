@@ -5,9 +5,9 @@ This project has been crafted by Ruth and Brian.
 The project is basically about events. Displaying the venues, location and photos of the event.
 ## Setup and Installation Instructions
 1. Have a web browser.
-2. Visit [here](file:///home/brian/Desktop/projectx/index.html).
-## License
+2. Visit file:///home/brian/Desktop/projectx/index.html
 
+## License
 MIT License
 
 Copyright (c) 2016 Ruth and Brian
